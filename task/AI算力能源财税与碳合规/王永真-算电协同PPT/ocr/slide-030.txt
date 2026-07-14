@@ -1,0 +1,35 @@
+2.2.1 节能低碳1.0-2.0：算力综合能源系统——概念
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+提出构建算力、电力、热力协同的数据中心综合能源系统（DC-IES）模式（左图）。
+一是挖掘数据中心内部大量的灵活性资源，构建算力网与电力网互动型DC-IES模式，以在平抑新型电力系统电网波动、提升可再生能源消纳能力
+的同时，优化数据中心的利用率及综合能效；
+二是利用中低温热能高效利用的手段，挖掘数据中心邻域用户的冷、热、电的综合能源服务的空间，构建算力网与热力网耦合的产消型DC-IES模
+式，提升数据中心能量梯级利用水平，实现能效的提升及增量收益
+热电耦合
+柔性算力转移（可容忍延迟）
+算力时间与空间转移
+母
+线
+辅助
+蜂谷
+SSSS
+服务
+差
+互动型——源荷互动
+互动调节 塞
+供电
+示翔
+电力能源网
+数据中心
+≥热（冷）力网
+电力
+算力
+-•热力
+woe onoins
+数据中心-
+算力综合能源
+数据中心综合能源系统
+产消型—梯级利用
+Wang Y.，Han Y.， Shen J.， et a.， （2024）. Data center integrated energy system for sustainability: Generalization,approaches,methods, techniques, and future perspectives.The Innovation Energy 1（1），100014.
+30/110

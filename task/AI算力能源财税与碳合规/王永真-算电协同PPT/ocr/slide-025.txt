@@ -1,0 +1,44 @@
+数据中心的绿色化、高效化、经济化
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+电力供应（源）
+储：电化学、飞轮、水（冰）蓄能、相变
+备用电源（源）
+风
+光
+燃料电池
+柴发机组
+电
+伏
+氢内燃机
+混合动力
+市电
+水力
+高效配电系统
+氢能、j
+直流供电
+预制模块化
+云化
+网
+液冷
+高效冷水机
+icooling
+热管冷却
+IT设备节能技术（荷）
+DVFS动态电压频率调节
+间接蒸发
+C-state处理器休眠
+冷却
+DEMT动态节能技术
+制冷空调
+氟泵
+虚拟化技术
+自然冷源（荷）
+（荷）
+高性能芯片
+江河湖海、溶洞、高海拔、高纬度
+各类热泵
+Wang Y.， Han Y.， Shen J.， et al.， （2024）. Data canter integrated energy system for sustainability: Generalization, approaches, methods, techniques，
+and future perspectives. The nnovation Energy1,200014
+25
+25/110

@@ -1,0 +1,55 @@
+2.2.1.1算电协同型——算力业务时空迁移＋风光不确定性
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+为了解决数据中心时变任务与可再生能源不确定性电力的不匹配，提出集成短期、中期和长期计算任务以刻画数据中
+心计算任务响应机制，建立数据驱动分布鲁棒优化模型实现数据中心算力电力的协同优化。
+0.6
+Acacmatlconty
+L2layer
+LCC
+Scenario 3
+1C
+LC
+Server execution tine（SCIMC/LC）：
+Short/medium/tong term task，
+Sonpuns sSk
+0.3
+Delay tolcrant umeRJ/SDwLDT：
+Interactive shont tolerant/long tolerant：
+0.2
+Keai-tie utilizattonrate
+Fnres poec
+Werd = Wwode/（Nwr • CPUlwa）
+0.1
+L.2 layer：
+Enerer and task features
+Maltiple task trsusfer meclnisms
+16
+Data
+IT system
+cenier
+L1 Layer：
+Cooling system
+0.6
+Hgbrid cooling system with waste beat drive ADC
+Reallocate tsak
+sbTtask
+0.3
+SC
+Adsorxion coolmg （ADC）
+Other equipment: air-cooled racks
+0.6
+Electric cooling （EC）
+The mamn constraints of hybrid cooling
+ADC
+E0.4
+0.2
+ststems: CIC +CAIC +Q10C = Q2C
+LIhayer
+IT设备层和冷却系统层
+初始任务与转移后任务的对比
+所提议融合长中短期计算任务和可再生能源不确定性的数据中心两阶段分布鲁棒优化模型，可降低数据中心总成本和
+CO2排放量23.2%和28.4%。此外，可再生能源弃风弃电降低了 7.4％，电池储能装置最优配置容量可减少26.5%。
+Juntao Han, Kai Han, Te Han, Yongzhen Wang*， Yibo Han, Jiayu Lin. Data-driven distributionally robust optimization of low-carbon data center energy systems considering multi-task response and renewable energy
+uncertainty. Journal of Building Engineering 2025, 102: 111937.
+37/110

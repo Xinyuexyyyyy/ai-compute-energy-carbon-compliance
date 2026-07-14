@@ -1,0 +1,72 @@
+2.2.1 节能低碳1.0-2.0：算力综合能源系统——模型/评价
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+不同于传统数据中心较为明晰的系统设计及运维模式，
+DC-IES内部多变量、非线性、强耦合以及多时间尺度和不确定性的挑战
+尤为突出。针对此问题，提出了DC-IES“一步式”拓扑设计、容量规划及运行优化的优化设计方法（左图）。
+Ker goals of date cenler in diferent stageg in Chine.
+Photgroltaic
+retlgeration
+Eleetra
+waste hea
+Ener gy slerago
+Cost
+Susiainaoilily
+Powesgid7i
+Gis powe
+Ga8 ier
+Elactac
+pmnidJE
+∞oiler
+∞：
+UUEGUEDOIE
+SUEGUEER
+wind power
+Bicmas
+Heat pump
+uav:1y （ten:ousanc
+w：
+19 153 155
+2007 21:1 204 2018 2018 2030 2021 2022
+0c swtaltempcai
+fexible werkloeds
+公：
+Esetgy hut
+DCIES
+operotirg cheracte istics of
+Repild growthof oata center rack numbers
+Rapid drop of PUE
+Comprehensiue eyaluation under the net
+Potcvotaic 3eotheeral
+ocaanerow rasourCe
+and market size.
+ZETO ETiSSiOn.
+soneaity analvsng aloice
+Accessible to eleotricity
+carban tnx & other facsors
+Traeniong
+& natural gas resources
+DCIES
+heakine麵
+Evaluation incex spstem and mdel of DC-ES
+Fergy flowe. ewergy flovs
+Mass.oncrgy.oxe:gy
+Storape cherge/discharge
+Stont-stop, raew ate
+SPUECU
+Eccnom: operation
+Frwviconrentaem.ssic？
+E sctiicity Interaction
+HEEUESOERFMBEE
+Safcry &relieoiliny
+Reaab ity
+conomi and efiicteno.
+Greer and ow carten
+Feolln
+DC
+DC-IES
+分析了电能利用效率（PUE，Power Usage Effectiveness）指标在评价DC-IES产消性、
+指标在评价DC-IES产消性、绿色性以及灵活性等方面存在的局限性，提
+出了构建DC-IES综合评价体系的方向及指标（右图）
+【1王永真，康利改，张靖.等綜合能源系统的发展历程、典型形态及未来趋势 太阳能学报，2021.42（08）：84-95.DOl:10.19912/j.0254-0096.tynxb.2019-0763.
+31/110

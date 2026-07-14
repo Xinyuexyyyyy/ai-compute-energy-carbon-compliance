@@ -1,0 +1,37 @@
+3.1 国内外数据中心的ESG
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+Peer Analysis 2022 and BD 2023
+20000
+Nasxo0
+17245
+Mota
+15000
+13500
+Microsoft
+11508
+10000
+10000
+7430
+5000
+3199
+3755
+2822
+1500
+1101
+58
+67
+427
+600 268
+5
+336 20
+0
+Apple
+Meta
+Microsoft
+Equnix
+Alibaba
+Tencent
+Renewable Electricity（GWh） Renewable Capacity （MW） S1&2 Carbon（KtCO2e）
+不同于国外直连的方式，我国绿电直连少，多采用PPA的进行绿电的认证。此，引发后续标准问题
+52/110

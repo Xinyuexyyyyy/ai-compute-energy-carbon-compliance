@@ -1,0 +1,105 @@
+2.2.1.2 算热耦合型——风转液的余热利用优势
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+室外新风
+Air-Cooling
+10~30
+Single-Phase Liquid Immersion Cooling
+125000
+留达國态器件
+射流冲击冷却
+°C
+超级汁算机高速芯片
+喷劣冷却
+Hot Air Return
+Open Data Conter Server
+100000
+Racks Fiea with Crcu ating
+Eectrosafe™ Coolant
+Coolant Distriution Unit
+Fnal Heat Rejection
+半导体激光器
+空调回风
+余热温度
+LED阵列
+微通道两相冷却
+75000
+30~35/Fins
+Server Rack
+40°0
+服务器机柜
+电学元件
+冷板式
+condtioner
+回液温度
+har（W/（mf.K））
+50000
+-贔闸管、
+70280°C 空调送风
+42°
+IGBT整
+两相漫没式液冷
+泵驱动
+server
+18-25°C
+空调盘管
+流模块
+CoOlAR
+7~18上
+Fma Heat
+电子元件
+cooant
+Evapcrative
+Pump
+water heat
+Coolng Tower
+25000
+热管
+Aiske
+RoomAir
+50~60°0
+eocchange
+Dry Cooker
+风冷
+Controller
+Existng Chtes
+微通道单梖冷却
+供液温度
+orer LO0P
+35°0
+100
+1000
+cool Ai
+Heated coolan exuts top of rack Coolant returs to rack from heat echanger at
+低热流密度
+Sucoly|
+user-speciied
+temperature
+中等热流密度
+高热流密度
+q'（W/cm）
+高温
+更高的二次侧温度
+蒸发侧
+温度提升
+理论COP
+COP
+空气源
+0°C一60°C
+5.10
+91
+q1
+地源
+15°C-60°C
+6.22
+COP =
+Wo
+91—92
+T1-T2
+液冷余热
+40°C-60°C
+14.8
+图片来源：行业分析报告；孔庆一，OPPO
+高密算力引发液冷大规模应用，液冷的部署将大幅度提升余热回收的能效
+［1］王永真，宋阔，韩恺，等.算力-电力-热力协同视角下数据中心高密机柜全栈联动研究［］中国科学：技术科学，2025.55（02）：213-232.
+40/110

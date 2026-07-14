@@ -1,0 +1,667 @@
+[
+  {
+    "index": 1,
+    "file": "slide-001.png",
+    "bytes": 507155,
+    "content_type": "image/png",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_png/JD56zmdhAty78udAPc9JzNyIqg1dJUWL3ft0Qc10gueTNkA8kqvW5VSMkRiaOdln8qOEYrY7YM5PF2mHqu8lwHsSInH44lEcGYjnThStoMvc/0?wx_fmt=png"
+  },
+  {
+    "index": 2,
+    "file": "slide-002.png",
+    "bytes": 369281,
+    "content_type": "image/png",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_png/JD56zmdhAtzQjVEAMia5m2Zv652Pu7R6ckTTF44LnkRChRr7PgGtMvquRFgepRUe4tenHepdd0IL4pgiaxnLic57UmUPxP1dN8vV20JWwcV97E/0?wx_fmt=png"
+  },
+  {
+    "index": 3,
+    "file": "slide-003.png",
+    "bytes": 112666,
+    "content_type": "image/png",
+    "url": "https://mmbiz.qpic.cn/mmbiz_png/JD56zmdhAtzvn763zBDq8ZxWFozXfiatADkmzfEwiadodZHF51iboPrFgan1WvBlnIsG3MK4zCVGn22tqWESevoYcfEYagyMS4gmrgDbq7jm8M/0?wx_fmt=png"
+  },
+  {
+    "index": 4,
+    "file": "slide-004.jpg",
+    "bytes": 108152,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxBJO3dAcP7KxIkRibWyV3qLRKAk9p9rJtkBR1SVqR4uc0aic9ibFTicLlibU4dZC8ea9JqguKjwaGLMavwhiakmOGuSia5rDenpNHtr8/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 5,
+    "file": "slide-005.jpg",
+    "bytes": 153251,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxL1Ah0OyokAMfdQzZNdhrhfb1a0ZoQj3lIwfaBZKAmI2npfiaDR0iaibp3fMSqDmApEvhGuicK6He3d6xAVqicjXKNcRgA7e6U01GQ/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 6,
+    "file": "slide-006.jpg",
+    "bytes": 136265,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtz9xJrhSvcucyibibFaCa7rd20OianKfY0zViazAjIDqTfwtdOgtUBSmCocNoybc7jdaH3nXXSpRZ40No7ibVjOTeicoicrichZzojnf18/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 7,
+    "file": "slide-007.jpg",
+    "bytes": 161092,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwhxxahUibaL4VibKNYeicO3QOF8mPAXZQG21T5doL6nSabXmLooibjef3SPwJZTGtGMvnLZQEMNk4Sic9dhSTc8WzomleTQUnH5VjM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 8,
+    "file": "slide-008.jpg",
+    "bytes": 201095,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAty7pZNplhb9se9QnibyG38QO9O5ClfYenI4DnKD4bpCXHkwWhmhnbl7yx3t8AMD6G4dDLibDibugKp7jVhia5xibOqsA4Qg0x2opeic0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 9,
+    "file": "slide-009.jpg",
+    "bytes": 198345,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxtbIm5rqWlsxgwTfCfFQkiaibZj4m7TxfRF6gGnibBI1ibkbKvH72l2AF6V9K05icMnMP3t1dpibPgiaZLSMo0w5tStScngzTXSFlBJE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 10,
+    "file": "slide-010.jpg",
+    "bytes": 132858,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtx0H7rWjnwYxCia2iaKtJGiaWO8giaegEI9Jt9p6yK9VnCqXpaVrDoT0Nk3ZHJiasmWQJIFGjTrT42y8iaiaCLfYWgwI3WrXKPia1ASGIU/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 11,
+    "file": "slide-011.jpg",
+    "bytes": 157787,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzY7pezfAPEicpLLC92B4qUqYVgrr1EreV2AnkhGycop2eljG7a9XMdYlW56lk68mV0QOzQyPN8DAYgvlNrKZu4wDchgcLgxhps/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 12,
+    "file": "slide-012.jpg",
+    "bytes": 158213,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxfiaLdagzstxNWBBA0P29Jia13cfZYTBvLq5QNdjDY7Hd6pA3MicWR3sx3CsGRMlVC2icBcmazEDgP7ey5X2icK3DSbGTgtxiaLP5pM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 13,
+    "file": "slide-013.jpg",
+    "bytes": 175861,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzmfxIWhCl1gks0x9lfpmWL2f8e6DBRbAkPQOExo53iaSGY5LZoWs8JJvk4ksP2YsIZ96YibiaaBV8yrqro00ZWnucm4iapnIr7wFs/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 14,
+    "file": "slide-014.jpg",
+    "bytes": 155132,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtw4AiauB1zbxgDStKEXEgU9uAMBIkQdCsibAw4aRniagib0oxBUvuq8EJUBovurkMRaJkkiaz8gmQMZYRL9nJnF1Dib6NdJcDVJNy7VA/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 15,
+    "file": "slide-015.jpg",
+    "bytes": 156764,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxHVuKyw1ggxXM7UI59GEwDgayQ1nBMOpSG7DOEhqHxvWg9WVMp2wFbwASluXjtwz4eXtMRADiakibn87aqsWLNpwb9WkLIxI1Gg/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 16,
+    "file": "slide-016.jpg",
+    "bytes": 184772,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzf3fxPO4Z53XuKmiax6MicTG9sdBjiaIbtEfkOwoAicUSRwvOlicrBpgV1mVGT3X2j8yHAuR8QA7O6GE8sH2m1uHNtJuLWqMgHo5b8/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 17,
+    "file": "slide-017.jpg",
+    "bytes": 163045,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwJSxo6pib3rbibLfmr93pmPalT4nyCw6JBshAiaIbAzjcurhYuo0dowrmFv9jP3M3z8p36OEQFm8z1RCXp7zrgQKUWeox0W6d4yA/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 18,
+    "file": "slide-018.jpg",
+    "bytes": 145094,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxLR0JfXB7AHUTlCTVibmVYQ7yicgEPKCbtvg7N9IozAHNZia2o3raXlHf7rfMborOzPS5wiaT9BzEiaHB7f2TajzeaibEzaqfic6MH6w/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 19,
+    "file": "slide-019.jpg",
+    "bytes": 147145,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzbrcCnMJNYV2gqwjBf2a6dCb647fYsZvGJvjicLF920SuuGMpibtLH7yUWtVfg2spKUqNPJMabL1b4DoFjyqf5fjMvQHzOuzceM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 20,
+    "file": "slide-020.jpg",
+    "bytes": 139047,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzBCAtzvOqvG8Rib8gQhN3OA2HsbicJia3no0jhCh2wsWlncvlFFXIrDD5dibHVWy8FkTPc9sTJMib8Pzgbh3Dg6S5c1X5jRSdTicGB0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 21,
+    "file": "slide-021.jpg",
+    "bytes": 141804,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxf3sbia5ZMyianvknoiaIL8z0L1jKSc8vgDazu9RueObudsl93ygswUB11JExc04XIqO5Wev4uEic0ibxl6mkVau7biavuajyJBQA6k/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 22,
+    "file": "slide-022.jpg",
+    "bytes": 155788,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtynfAnzoDsXA55mPBBe6wLLJ9ic57ibb0ic7wpmibXg01s4TEnmWPy33X4lsBY4LlZ0EkwcO3hDqrY1Jiciab8ibf29cEoLqoW1dKHXJs/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 23,
+    "file": "slide-023.jpg",
+    "bytes": 88108,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtx46ficJJxWpCC9pqqgoZILg4VJoO5DBhic2YJnMqO46ZojvnFzOnnZ1kXKSkKxS0Qh5qonoMXbd5YBfVzBua2oia9bBRLTJOPFnw/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 24,
+    "file": "slide-024.jpg",
+    "bytes": 168713,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtznfQ7MkPh1BiawkjoKscmSOZtARicMCKbatx2xkrNEee7nq45vlzfBbSt42IBhca1qN6G3hiaGeYC5KkiaGCStVdxtBmdXxklYSuI/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 25,
+    "file": "slide-025.jpg",
+    "bytes": 171654,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyWXlDJWWPyicsk759iaRl2QvNqvibzo3PWFMG2MNbMJjMddq2eVPxgeU0Q1DlX6gJ0I1ibeUp9CXk4iaTZ54AAnkqOlibiaJ6oegIFic4/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 26,
+    "file": "slide-026.jpg",
+    "bytes": 204150,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAty4gSTZqLKqrYK7pcPyXYQmYcXpRnbmoxZjQHgTdibxiaDe0T53BQYuczHr6G0rWs2w4hTuBKFk05PIPxFkIUfGmNmmIUCfRa3AE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 27,
+    "file": "slide-027.jpg",
+    "bytes": 203067,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtx1q06icOHfuSDyBCLicW1EPibn28iaWCF1R45H043ibDvIbtlicsiaicqwY9p2zbvpLCyGryGEs4HB2TicsyzZjJLYlJKeG9ic0xA7CZVC0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 28,
+    "file": "slide-028.jpg",
+    "bytes": 157727,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzpQhc7EGUhsSozEfKricD7BBa0Ymj6DXxZvR5o7rWYstm332icUYe1MCHrnBBfbMMBS9bicrfdPibcue5kT2PRcYYPmMFzRmONUib0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 29,
+    "file": "slide-029.jpg",
+    "bytes": 177416,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyVdGHKYCEF4DGJ9T8UtEn5g8BsJCicOUkkFaBMVOrSDdlLcQpqW6GODssg7r7Hcrt11vYOaibLWgdGqs1ybFTrwVzz2HLmYP4PM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 30,
+    "file": "slide-030.jpg",
+    "bytes": 197449,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxexNrR385DgqgVQ5GK3O3L4HQzl6NIpb6eibQEVnlmWBS55w6RcR3zuBDOWs9CVUacibAhYReibw6okgAcjZUp5ppsEGhR1MV0JU/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 31,
+    "file": "slide-031.jpg",
+    "bytes": 190277,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwRYgEZc8MZv6b9mnO04yVtkCjEboTe7O8JVqLZ3Z7bZiaR5tibuqZKsBJx0iaX8GY5tLwK6PNCD4nLaeCC6LNmTbtqDYIkicJsticA/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 32,
+    "file": "slide-032.jpg",
+    "bytes": 160069,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwAzsKHeZ1ST1zU6e7OP4mNQRrjGYpbQicHrWaTRNFIq06J4myZW5HAvj6OK2PhoYSDibeictj7UP0lFpyLkl5ibyHS4nib7gcicf3B4/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 33,
+    "file": "slide-033.jpg",
+    "bytes": 159877,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxRKA4vK5J3WWoHDN0XMfXW1B3tds6XvYIpWnp3rbve4TWVUfT5hhOxc2RfoEsK4pia7ls8gYbJicVqTtQ1icwjOs6ypdLsMHib4QE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 34,
+    "file": "slide-034.jpg",
+    "bytes": 134735,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxkWhVWEl548Sicb9N3T5OKc7gH1jnf2rZZK2RIJicVeTicxGaG1hKPnQddz40LSvJQEowlZWeIArTc1dOricK4L1avlCdSwD4RhX4/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 35,
+    "file": "slide-035.jpg",
+    "bytes": 163496,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzOPyutEFdNT7cG2vOSHH8fvlkqLnsZsX39tc2qME6zJx1OcXSOfKs9ck1mbcc6SKhjYjz3FFrNAe9uyMFSDRnhDwhUXXz0kGw/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 36,
+    "file": "slide-036.jpg",
+    "bytes": 202676,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyvAgdT9VoOOGcPUrI6icNtuSmV3uwzt0eCWuyI2e2R8RaRCsFI7O2rqZ5Oesh7g1gNy7aVNiczTAH9Fpib5hphudOgR5qgVR4DKE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 37,
+    "file": "slide-037.jpg",
+    "bytes": 197312,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxBicxtc13a4FBMCryGjGqz6AsXCjDGvMfVUjBic09uegkXQU2TpYld2LaCWjHD1UajUt48hSk1JTeJqNxnE7oTDlvfP0Pj9NvSA/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 38,
+    "file": "slide-038.jpg",
+    "bytes": 170330,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzicicocP8kBd8oXDjicTHbIvfWBPDHSRRNHqwJl8U6H9y8ADN0BSHonVicjdCNibUMzfDVhFeicepVwb4ZueWc4b2y0NATicEIkLZWNE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 39,
+    "file": "slide-039.jpg",
+    "bytes": 166660,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwAvicg0AQtevdlc4icJmykjyY9ZQTnia0eqjR7Lg3EbLI7sE3YujibCo3wOm4sdZSiacNrZ1DqcFMF3dQ9dXD5CdgzkV9UnPrmdBibY/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 40,
+    "file": "slide-040.jpg",
+    "bytes": 175385,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtyPny9Rrg1sBFKfx2E0j9zH09aDWRQVDqtLzulwcq77JfgHPpyeTuIBplLDI4OwcXPM53ShwBcsPv6KLvZWvaoPqN4IL9GkAKI/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 41,
+    "file": "slide-041.jpg",
+    "bytes": 173138,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtyibpdWSQ0QWESbZTK2p1FTydDiaerCWibGT42Dwd46QrXdDaYQ7Pghbs7veGtDqIhibCe5Yz3wdvPBL1ia5bDfVOCichHtrarxDYFJI/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 42,
+    "file": "slide-042.jpg",
+    "bytes": 169066,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzT13iaibIiawqvtmerpiaGIs2gyD74M8n4MiaPdHGgbpr6DxkHyhaDUhPr0HEqpIqZrqVeFSf8pAQ6x4GicsPmq8qkZiaPsm0ukzmQvs/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 43,
+    "file": "slide-043.jpg",
+    "bytes": 184146,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtysWF4cAzZWMkY4vSpJeuwuzsrrzm0xoUtxUkpAB5yeFQcLFunxCmJz4BzhvS08Hibvibl6yn06dNsqicbHibvxcIzDZArbIQFb3rY/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 44,
+    "file": "slide-044.jpg",
+    "bytes": 183109,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAty2HyVWoWTsnqb3dy1vGzwNMl64Z3HFmU8vSdyavfCNtpATIFRIBOyI7iaP2g9iaKQHUynPEyefGukBMzz93bKFzobyz6UfTssHw/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 45,
+    "file": "slide-045.jpg",
+    "bytes": 189951,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyJu7hcgFx9prkt12Xd97aBWvf3UNyJnF955lZhJjlMjoqGNj2eTQ5PA3f4dBTxDfWic3r23zxJZSuxNbiaQNLvjkX3ES0jl0GNM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 46,
+    "file": "slide-046.jpg",
+    "bytes": 134723,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwGXicczrbasibiaklj24picia0pgVYX6cQQekRa2UkbZWqUxqulaS5c48Fia8ygNk3bpb6g4dsB8c1eDOPhPuqbbrUADMac15p8gw44/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 47,
+    "file": "slide-047.jpg",
+    "bytes": 221902,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwPy8uTrWym9qFFYOtKTKOcBicX0WC2SvKlvmAibianbGoQrDynkLSq5P503n1BGoWqCUDwhicVTZtmyRN3eQVtmdMWN9FTDhZvqmE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 48,
+    "file": "slide-048.jpg",
+    "bytes": 88223,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtysibFrzSB2EfV9b6eB9svK9W0IyXaicC0CYTpTyibMvqknCicffiaGt4RIs9qKh8ehS9L4LUjUYVRolps0HwfRc9Fznic7CfWnEyZia4/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 49,
+    "file": "slide-049.jpg",
+    "bytes": 186124,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtx6JpR0u5FaEo5ianR5oubbW2kOHdKGrPOIZCw1Yica0z85KyH5icoMicEticuLPsribjCK8HKR6QQNG4uwMDgibeAHeibBwmx1XFYZibxw/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 50,
+    "file": "slide-050.jpg",
+    "bytes": 141196,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxayp0fNOib92ibgWReFsLib9xRULczdh2rkDejZpCJOq1yicgicBMXibqNfb7ibstBbn4wemCQ6oq8OW4icyic33Z7C6LrsrFSZdJ8QicKg/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 51,
+    "file": "slide-051.jpg",
+    "bytes": 166224,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwk8K0RuRjKceluOuiciaXCFeGEmGcTCs7K8ClNdyqicEsvoqd0pvoMKUqJNX5yRwyUVxNuJw8rRczt8V7UG3rCvZ7gcSfgJo9jqE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 52,
+    "file": "slide-052.jpg",
+    "bytes": 90864,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzatTbRHvgrib9Kvqo0e64sB53zddPWlicYZkoSVzyPtmia3JqK8GcetyXDrLOe58OFu2Rib7icmNNWXbhoGR77X7Cibop6qUrG5gVfA/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 53,
+    "file": "slide-053.jpg",
+    "bytes": 151804,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtwjolXDllVRwhNRUiaYdHOIKkwmmon4X97l9ejmAchBRDcFnibD0tGaZ3zd6CYAN6a6DeAWKSZ1oVBuLaibFk29ibNaiaEJpKSwXrtM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 54,
+    "file": "slide-054.jpg",
+    "bytes": 136737,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxZVHD0zYI0ZAicm4D0piabcaGicq6Vxd3NTg7LajSsbPmqcibk2gQNCjbmpAqCBBaEXHVGeVEdbfUkrFgP80LslG7346zIB2s44rQ/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 55,
+    "file": "slide-055.jpg",
+    "bytes": 162929,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzU93NgicEEVsWkeJVfiadrOS31mHw4OmmkppwYzPeic8ReEvC2QrdbwH8rY3l5eVcd39jQZhxNn1gXOSuw1icYXoeZLVYF2qPBTFk/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 56,
+    "file": "slide-056.jpg",
+    "bytes": 144687,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwELH9H9I7N0SlS0HYu8wRWJuFqpSe1MpjMRQozk8rvxlmQlibYkm80FLQml9tFdO4ZKK2YFwhhWQ8QUDhrAJkJc8oOwibHjqkJU/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 57,
+    "file": "slide-057.jpg",
+    "bytes": 131980,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxcaMeCg7YVfJicv7Q6N0PXgd4M5nfqwjJhmYh9kCRJBdP2XurNDUf4HxrlLI5IbT5yLlacrr3HcMsWbmyJtx7iayeOWneYyGw8M/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 58,
+    "file": "slide-058.jpg",
+    "bytes": 118885,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtyng8icV6G4utY93ADFPj6BufDcfk18e7RHxNPsjXvDbnO3nvod7o3uKwkqWuwbWIa6ZiazttoCf22MibVKYzRJhWibZRtpSDlchp0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 59,
+    "file": "slide-059.jpg",
+    "bytes": 83698,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtwcHtSpBVUAj21X3b1dNqPOPB6MEl7rGPnGnUM4mbDYOJbRwudRldqmXibZ9lBvsiaMR4qAoXPYaIMuvLSUutvqIZX1lLAoDOzcQ/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 60,
+    "file": "slide-060.jpg",
+    "bytes": 164133,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtykPyHDWcW2dFLbQWrBVI63yfz8tia1HyR9iaRiccFE2pCauCB1pd0re3HaFHPfBntX9Q8s0M57qVVS23bqsveG4ibJ7wEia4MmZzvY/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 61,
+    "file": "slide-061.jpg",
+    "bytes": 168163,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzmaU6wiauW6kxGmB1c9oib30jAIYh2OQk2E80NFdv3uFiaicMoJaxMDUt3wnct16gA2VibNdv9JJf7BfWBckPUmhjicrJkX7z69ic2a0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 62,
+    "file": "slide-062.jpg",
+    "bytes": 190058,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyDW0SPlhTUzMibcGYJtyuMW5ASf843yUwibhLjJnV8B1Rk5vkjgcicLia8iaictOg87IzGBJibkbVVQAaBf0icBMmtR3RKgtibjPNia4ic9w/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 63,
+    "file": "slide-063.jpg",
+    "bytes": 184176,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzut2jMZ0uKLIQtYmP6AVmEeIAKSlwVjJJmFKk06AbZZyMynqYWleRzgMqIB6doqyp829E9cUGk6t4q6jcL5Dagqemy8YA5RR8/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 64,
+    "file": "slide-064.jpg",
+    "bytes": 158464,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxqlADEkicZCL3fibhbuYGwd4WibXLicDExDiaMq9ax6e7pIo3901Zg9v9FUd9kcKlf0HYrZN4PvaPJLEHEibWE1SSicw4DCVEBh5wvj0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 65,
+    "file": "slide-065.jpg",
+    "bytes": 161875,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxVvZk3c2k0C7jrkrdNMu9M6gWYcA0JCZ7zE28dogVAicQEWLhW775hbXcxl9iajVALjjcOxSldWuYVIRPgicS0q6ybvyv7E2KcHM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 66,
+    "file": "slide-066.jpg",
+    "bytes": 158474,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzicfrdknZhq6kp60dRRuJxk33IB2714OpXdKPiby3kX0c50Wy7aiaQWR0XZnX6ACPtmoUVMaFLU3PADeLdBgX7BufYhBr25oSbmM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 67,
+    "file": "slide-067.jpg",
+    "bytes": 201991,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtwBumKXvrxO2Dvd8CTGEmglBlp3icnib0hMsDmAbHn5SxVicfE2gm6uUicxoKayUTrNXrCoPcQncCpRkGG2mjvArp2cutJuibibPcEgg/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 68,
+    "file": "slide-068.jpg",
+    "bytes": 148307,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtw28jqwDTwBZRqiaQIaJuhRmFJnZqNBhr0NE6Dev9t6Ah4vCkVkK5fM6Q1f1icc9AqlpJibRLZTib0cXh1famZic7cyf8QibmTcSmofw/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 69,
+    "file": "slide-069.jpg",
+    "bytes": 156528,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtyrJ1Z9kmmyoBAd8Oyw5FgyzvUeiaWPRz4ls0dgHicGHlEAR0nNuB4MjuCk4BHRIUFeY4mQRTRHLIoN7kgqWyBTlK7RvxmBq6CNc/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 70,
+    "file": "slide-070.jpg",
+    "bytes": 136982,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtw3ibJvy1F0O8NLE0v3ic8ibjYrOkxqVhnRtQUUo6kgjuqsibcsBPoiaQQpnXJ563evzSoumDGkrSzP1CFvAicqO2n2eGI5vpkzRwzrM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 71,
+    "file": "slide-071.jpg",
+    "bytes": 100533,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxNjibklxlzQvZ0dgwhVicARWzFGju2puoC0z0icEIcUIJGK3YuR6SibF7H8DQSCQPrEOR412W4oe81BcnKU2Ks7qLDhGJ5aRgicOoE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 72,
+    "file": "slide-072.jpg",
+    "bytes": 224641,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtw4RPSzMMoN61hZBetvH04UVGeMtIgWjibMD8PjLuKgBv3dTOuTE39ChOR9cHbakgAUJAhVWURsXrPXjDgW7GticNJhAEWhNn2SQ/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 73,
+    "file": "slide-073.jpg",
+    "bytes": 148607,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxtH2BmhOXOJbYLwuuFoyiazp9E2qcfAmtic6uZ86Qiah12lrh1Bib7kGRoYxiakJOq3vHGRdpsoORMUl0d7m1t4PfVnVicjiceU2cz3E/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 74,
+    "file": "slide-074.jpg",
+    "bytes": 175986,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxdKWtDh1SBmgibBn5B0rlyXDV0vwjdT3JicAu2ObvHmiaqwOmxOTGNeaYQKzcHHdGRU5XkUY6x8vibe35ibLoAmrVhXiaJ379WxK5q0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 75,
+    "file": "slide-075.jpg",
+    "bytes": 175792,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAty7MSQVx5GofnickE4QIk22aZm4NfiakD4PLEuaEt0OKcoPuHUK7qCtX7cEuXhN1F5GRPL6nK8dhuk8TJdTmAqrO3tyoxTIMpdeQ/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 76,
+    "file": "slide-076.jpg",
+    "bytes": 88004,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAty7panp1SW3Engcw6yfq2ibQhyMuBuAAqbZw2SDoVzhsNeWc3j4GmzpLeBCAgtG0OOhPg5KCC4kk6TjYUpoBSlWFa9ReSkZQiaCI/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 77,
+    "file": "slide-077.jpg",
+    "bytes": 85430,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwa65HK2kG9puYqDlatfHphR9QtxnGe5yzyKc7pQXZJzv98mS2ZNjVZM7tkNaAlCJVnQnTG5VhgQicqB0ibklVaXy6fektsDkQ5A/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 78,
+    "file": "slide-078.jpg",
+    "bytes": 155725,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtz7EGjku2Vria8liadhu47kbUJwtFIQ7aQU8v9okbS8VwVVsJHiby2AxghGlncRr9jfFJZAYlyMHaDXJQJiav1UgmWcYPtSKUV3ce0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 79,
+    "file": "slide-079.jpg",
+    "bytes": 209488,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxfBIaEyDqw5wb0YwUPU9hAtNc6gXQHLWdQficfUHicEFCIpG5oQVOrGCU2oJFXP6af33v3w39KC7CialR5g2Equgp4KTywsoscdc/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 80,
+    "file": "slide-080.jpg",
+    "bytes": 133616,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyyTTqNkThsE3FQ3aTGicXQBzgicSVvlibI8w16oicb0DMGUS13sfLiadMt29pBIM8tgbgFwYSP4LBuVwOoQT8ppYzHGo5RiaZicFHKnM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 81,
+    "file": "slide-081.jpg",
+    "bytes": 138052,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtziamOOBN7YCZEtvImh9kpwlmPt5LHvPNUTyIoiaXKBrFb1AwTFhoKJicwmJgS4rxEfvQ8svxuiaosbAUyGeBOJ5AkNHouqleYiaCyo/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 82,
+    "file": "slide-082.jpg",
+    "bytes": 145865,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyzrbpG8YJib7lmSiagVoQ7IYaIPwJDnXxFUStoxBKmd2QlYxWDicJbfnibS0gQbql51yBPyYpIxwJv9Slsia64LnfnIqaM3eq8f2Rs/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 83,
+    "file": "slide-083.jpg",
+    "bytes": 126409,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwGYp8mJY2xm6RvhP4IUCZkNQNGQwYibxcIh8tEUBvnSgJZCniaw5RbiaxySgh6RpPsIibB1B32CjuR2SKaVA5lHXia800OzicBk2BbM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 84,
+    "file": "slide-084.jpg",
+    "bytes": 202857,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtxNNJciajHzAuG2Vria6RSoS0acc1BtmIMwy8j7MTyCkz8DnaT7f1S57dI9uu243WISZRhfibmcNDzVNTWXibklLjfFojSkkMT0f5A/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 85,
+    "file": "slide-085.jpg",
+    "bytes": 167822,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwblzSz7k45wwPFSza2gthBJqm6LO6hC9ecECu5GOtZncA8nblvp9UPqnoWGFc9nlJHT58Pttiax7b1WXjanDkPQ0oX7SEPSudM/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 86,
+    "file": "slide-086.jpg",
+    "bytes": 136623,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyCzdQ3RJ00m880Ks2fcGACcuEbqs37IdFqvWySdXR93UBfy3FlA81bzEl5A3rWicZF0l61hjUYibBGqz38V7MSUb0EXotfqwicFg/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 87,
+    "file": "slide-087.jpg",
+    "bytes": 167940,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtwq441pZMNoJ8evhyNakmTl4Mv7KI8dNYkCITe5dBhhDQl9Vo9jlKHb2YHkH6wwjHDHYpCPEy7iazRZjS4icurSpK008qIlLUzYE/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 88,
+    "file": "slide-088.jpg",
+    "bytes": 210301,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtxHPEQnmoASmDHaj9yJNoUUA3Da5boJGDn0HgtBiazaDqLwn6hWHO3ibbIArJxSE2ibABZKlnO40RsiaGaDNIPUESByUA6YmWHJCoA/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 89,
+    "file": "slide-089.jpg",
+    "bytes": 167092,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtw74Jzy9F3VPUYKN0TdsvkjWQCPC2urcv1w5OaR6lholNBjViasFfQhA7lrMng2JibGESSmBojBsEC0IK2dsiaIvkicXH1NYBCG8icw/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 90,
+    "file": "slide-090.jpg",
+    "bytes": 191031,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwRWlforGBjGHzMs37zOSaOjUmROn3gtl9j4yRleUzRbaFFiakpfWLkVicWQiajuvluxyiaxs7ANjQ7kueHSjxhubuGEtqNN1kBiaX0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 91,
+    "file": "slide-091.jpg",
+    "bytes": 87716,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzGQBtygjF2oI07HClovsNicVmHr70EVpKArxHEdY1AQTd2EM9ibnuKjgIokhIT2SqOXWXkAd9UhPpU4iaYSa7SyR7WhoryvAqibB4/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 92,
+    "file": "slide-092.jpg",
+    "bytes": 144906,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtyIF4HkIE4Ptb1p0s7OrGVTcuHoGR9LSXicFFxaj8dkQt2fu47owPT6tx9wHRianlHnAqzthciatukCj98twMLS0B3ELAXOLhB17M/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 93,
+    "file": "slide-093.jpg",
+    "bytes": 125149,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/mmbiz_jpg/JD56zmdhAtzN6Hb9FnibFPlUSZ6tliciamA8DBiaatia8g3ogvMyEPBD3vicyib5RHzmWX50HUNuWpWhiam5TzIxqS6hBwQtyX1ibO32x1h3frxKOBd0/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 94,
+    "file": "slide-094.jpg",
+    "bytes": 129415,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtzrLD77TiaCgdklIleOaICTm3CtjHS9CdqdlnkPNHujHl0AtzKCQ3nrGxRNdOFOMn40cbK6IGvicYDMbVbXXm9Bco9z5wErcUFSg/0?wx_fmt=jpeg"
+  },
+  {
+    "index": 95,
+    "file": "slide-095.jpg",
+    "bytes": 111487,
+    "content_type": "image/jpeg",
+    "url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/JD56zmdhAtwPkNXMtDCxZ2Gx8Y0V7emkxa8ibAhpZI0QVgIia0cTicwpgUZ9nIDSEc9794N7MKXbn8DcibXSicpP9zweehUwgPpEgklShbEs9UOA/0?wx_fmt=jpeg"
+  }
+]

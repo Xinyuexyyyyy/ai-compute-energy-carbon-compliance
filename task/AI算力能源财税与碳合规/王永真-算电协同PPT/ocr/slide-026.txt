@@ -1,0 +1,62 @@
+2.1 节能低碳1.0——提效
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+节能1.0：设备级“能量数量”上的“高效节能”遇到”天花板“
+热一律视角：供电-计算-制冷
+设备级能效节能
+④计算端：
+②制冷端：
+③配电端：
+串力供应（源）
+储：锂毛池
+备用电源（源）
+风电光伏
+水力
+飞轮储能、冰蓄冷
+然料电池
+柴发机俎
+功耗比/算效 CE
+COP /CLF/PUE
+n/PLF:AC-DC
+市电 氨能
+氢内燃机
+混合动力
+|高效配电系统
+云化
+DC800V
+网
+Average comexnio offeckency of ihe yar
+高效
+DC800V
+液冷
+冷水机
+AB3SOV
+IT设 节能技术（荷）
+热管
+D€2401336V
+DVFS动态电压频率调节；
+茶热
+C-state处理器休眠；
+自然令源
+蓱照
+DEMT动态节能技术；
+（荷）
+日接蒸发
+江河湖海.
+应拟化技术；
+溶洞
+制冷空调
+高海拔、高纬度
+（荷）
+热泵
+始腳
+算力设施能源转换图示
+计算功耗比提升数十倍
+PUE从2.0以上降低到1.42
+AC89% DC96%
+1.0的节能：供配电（基尔霍夫定律等）-算存运（量子宏观效应等）-热环控（热力学第一定律等）
+局部链条上单设备的局部能效的提升，不少设备能效即将逼近现有技术路径”天花板”
+1. Standard Performance Evaluation Corporation.SPECpoweT_Ssj2008 User Guide［EB/O.. https://www.spec.org/ power/docs/SPECpower_ssj2008-User_Guide.pdf.
+2. Uptime Institute Global Data Center Survey 2022
+3. NVIDIA Corporation. NVIDIA 80O VDC Architecture Will Power the Next Generation of Al Factories［EB/OL］.https://developer.nvidia.com/blog/nvidia-800-v-hvdc-architecture-will-power-the-next-generation-of-ai-factories/
+26/110

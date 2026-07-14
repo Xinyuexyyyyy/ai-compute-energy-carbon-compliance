@@ -1,0 +1,40 @@
+3.1 算电协同国际行动（相关案例）
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+Google
+Microsoft
+facebook
+基于碳强度的算力负荷调节
+数据中心参与电网辅助服务
+数据中心参与电网辅助服务
+计算全天碳排放强度，优化调节算力负
+利用数据中心的电池（UPS），为电网
+对服务进行优先级分类，弹性压缩服
+载到碳强度更低的时间段和地区。
+提供调频服务。
+务器用电。
+130
+Baseline versus Carbon-aware Load
+EIRGRID
+cepping threshold
+/fopping tnggered
+— Carbon-avare Lond
+© Carbon Intensity
+125 capping target
+cnclx
+load increasinc
+1m10
+1oad aroboing
+securo Coerecevty
+Dota Centre
+uncapping triggere
+Duea Conte Cperatcre
+140
+5B lmit
+aceee （ca）
+E:T•N
+Row pOnC
+Sunert Mceean
+盟Microsoft
+Time ofDey
+50/110

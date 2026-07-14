@@ -1,0 +1,83 @@
+2.2.3 打造零水零碳算力中心
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+直接空气捕集（DAC）作为一种新兴的负排放技术，可成为保障数据中心实现碳水净零排放的兜底解决方案。
+本研究提出一种将直接空气捕集技术与数据中心运营相耦合的策略，利用数据中心产生的余热为直接空气捕集的解吸过程供能。该方法既能实现余
+热的高效利用，又能同步降低数据中心的水耗与碳排放。
+（a）
+（b）
+Heat Pump Module
+958 kwh
+Direct Air Capture Module
+1500
+H.O/CO. molar ratio （r） from 3105
+1600
+（kg/h）
+Co product
+Condenser
+Adsorption unit
+storage
+Throttie
+Alternate operation
+800
+valve
+Compressor
+500
+75
+Net-zero Water
+water emission
+Evaporator
+H,O product
+storage
+Net-zero Carbon
+Separation Unit
+-500
+-800 9
+296 kwh
+118 kwh
+780 kwh
+200
+400
+600
+800
+1000
+1200
+COz capture rate per unit time （kg/h）
+1200 kwh
+（a）
+（b）
+（c）
+Renewable energy
+550 kg/h
+we aen apcty MgCo
+550 kg/h
+Atmosphere
+Cooling tower
+Waste heat rocovery rate
+Sorption heat （kJ/mol CO.tH,O）
+Diesel generator
+100
+Data Center Module
+1gco；
+0.36
+Regeneration heat
+Green electricity
+Backup power
+Water
+200
+Carbon
+Ambient air
+Treated air
+H,0&COz
+-300
+Work fluid
+Waste heat
+-400
+0.15
+Grid carbon emission factor （kg CO./kWh）
+0.35
+0.40
+当电力排放因子为0.36 千克二氧化碳/干瓦时，依托现有直接空气捕集吸附容量即可实现数据中心的零碳运营；而当直接空气
+捕集技术的水碳吸附比为4 时，需捕集约 1100 千克二氧化碳才能实现数据中心的水平衡。
+In-depth direct air capture integration to achieve zero-carbon and water data center，江龙（浙大）、王永真（北理工）
+43/110

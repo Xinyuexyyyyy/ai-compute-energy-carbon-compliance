@@ -1,0 +1,50 @@
+2.4.1 节能低碳4.0算力调度与匹配：多主体算力时间空间匹配
+可再生能源资源地域分布不均，“东数西算”多数据中心算力、能源双向时空协联合优化促进绿色能源利用。
+Spdisl Fkesililit Ncrwe Dhts Cemten
+Keined modei for
+Grd
+MDC-IES
+Iepat paramcrers
+DER 1
+（a） DC1 wind power
+） DC2 wind power
+（c） DC3 wind pover
+and RES seenario
+pencration
+DC2
+DER2
+DCn
+>00 cog: cvrginaokl
+Csekee iranain kad ad
+（d） DCi PV power
+Co-opiicaloa
+wc Lagang mpiors
+mthod for mieltl-
+dstaccaicr
+Batchtash
+Isteracte task
+ciergi system
+Ubrdtire:o..2.： rwc:0d
+--+Data Bow
+Computing task
+Powersrid
+Wrd terbine
+Electrcity How
+Hanidisk
+1.OE+
+Memor
+Coolig fow
+Naturalgas
+Objcetivs and
+Eletnc chiller
+disca55io35
+Tak pwu iDC
+Cas Bow
+Gas turbiae
+Baltery
+Cooling sstem
+充分考虑数据中心任务时空响应特性和可再生能源出力特征的多数据中心能源管理为可再生能源消纳和低碳运行提
+供重要路径。所开发能源管理框架实现系统总运营成本降低30%以上，减低了可再生能源弃风弃光现象。（投稿）
+Juntao Han, Nannan Tong, Jiayu Lin, Yibo Han, Yongzhen Wang*， Kai Han*， Yaping Li*.Distributionally robust co-optimization of computing workloads and renewable energy uncertainties in geo-distributed data
+centers considering multi-element influences. Energy Conversion and Management: X:2026.29:101432
+47/109

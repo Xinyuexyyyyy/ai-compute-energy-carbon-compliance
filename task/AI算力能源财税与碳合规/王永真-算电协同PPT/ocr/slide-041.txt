@@ -1,0 +1,81 @@
+2.2.1.2 算热耦合型——液冷+吸收式制冷
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+液冷技术给数据中心余热吸收式/吸附式制冷的条件。较高温度的IT冷却液，可以驱动单效溴冷机
+实现直接制冷。油田、石化、钢铁的余热可以驱动烟气型溴化锂制冷。
+2.4
+冷却系统
+位置
+温度
+2.2
+10MW DC 理论上的散热，如采
+三效
+冷通道
+10~32°C
+用液冷技术，余热驱动单效溴冷机，
+热通道
+50~60°C
+2
+- COP~0.8/0.4，则产生8MW的冷
+空气冷却
+冷冻供水
+7~10°C
+量，满足DC 供冷需求。
+冷冻回水
+35°C
+1.8
+双效
+1.6
+液体供水
+70~75°C
+液体冷却
+液体回水
+72-80°C
+1.4
+一H
+1.2
+DS
+Condenser
+发
+…DP
+Generator
+1
+单效
+•-DR
+生
+Data Center
+- TS
+Waste Heat
+Solution Hcat
+0.
+8
+Expansion
+Valve
+Exchanger
+-
+TP
+Expansiony
+Liquid
+Valve
+北国pump
+吸
+0.6
+两级
+不同形式溴化锂制冷系统的COP
+收
+Absorber
+0.4
+40
+60
+80
+100
+120
+140
+160
+180
+200
+220
+Evaporator
+Heat source temperature［°C］
+液冷+溴化制冷=免费的冷量
+41/110

@@ -1,0 +1,17 @@
+2.2.1.1算电协同型——算力业务时空迁移＋长短时储能
+北京理工大学
+BEIJING INSTITUTE OF TECHNOLOGY
+为解决数据中心工作负载与可再生能源电力的季节性不匹配，根据工作负载特性制定多种计算任务响应机制，利用日
+内-日间状态叠加策略，开发了集成多任务响应机制和长短期氢-电池储能的双时间尺度优化模型
+Electrie power
+Hyarid coolime
+Degsmlsr
+Hsbrid Bodrozene-faftery eacrey stirige snd dusl fine-seale stratet
+数据中心能源系统架构
+系统指标的比较分析
+多任务响应机制和混合储能多时间尺度建模策略
+所提出的方案考虑了多任务响应机制和长短期氢-电池储能，实现年化总成本、年碳排放量和平准化用电成本分别降
+低了11.5%、37.6%和9.4%，可再生能源渗透率提高了8.5%，整体性能优于传统模式
+Juntao Han, Yujun Yan, Yongzhen Wang*， Kai Han*， Yibo Han, Jiayu Lin. Dual-time scale collaborative optimization of data center energy system: considering multi-task response mechanism and hybrid
+hydrogen-battery energy storage. Journal of Energy Storage 2025, 119:116244.
+36/110
